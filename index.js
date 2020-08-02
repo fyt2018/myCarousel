@@ -50,7 +50,6 @@ config.doms.imgBox.onmouseleave= function(){
     } ,2000)
 }
 
-
 config.autoTimer = setInterval( ()=>{
     toRight()
 } ,2000)
